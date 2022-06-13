@@ -9,8 +9,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author AMITOJ SINGH
- */
+ * @author AMITOJ SINGH 13/06/2022
+**/
 public class uno {
 
     public static void main(String[] args)
